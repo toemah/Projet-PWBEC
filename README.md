@@ -4,7 +4,7 @@
 * Thomas Guegan
 * Victor Brouard
 * Mouhamadou Soumare
-* NicolasRaharinosy
+* Nicolas Raharinosy
 
 ## Summary
 
@@ -12,7 +12,7 @@ Our web app lets users draw itinary from points to points on a *web mercator pro
 
 ## How-To and Technologies
 
-The source files must be hostedon on a server of some kind which and be part of the same directory.
+The source files must be hosted on on a server of some kind which and be part of the same directory.
 
 The app makes use of the jQuery library to enable dragging and dropping functionality of elements on the page and to make Ajax requests necessary to interact with the Leaflet map.
 
